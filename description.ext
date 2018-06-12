@@ -1,0 +1,2 @@
+#include "gui\defines.hpp"
+#include "gui\diag.hpp"
